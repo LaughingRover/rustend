@@ -19,6 +19,6 @@ jobs:
     - name: Build
       run: cargo build --verbose
       name: Run
-      Run: cargo run
+      run: cargo run
 #    - name: Run tests
 #      run: cargo test --verbose
